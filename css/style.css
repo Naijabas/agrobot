@@ -332,6 +332,16 @@ button {
     line-height: 68px;
 }
 
+.header-area-new {
+    border-top: #6b7908 solid 15px;
+    width: 100%;
+    position: absolute;
+    z-index: 9999;
+    height: 85px;
+    background: transparent;
+    line-height: 68px;
+}
+
 .logo a {
     color: #1c1c1b;
     font-size: 24px;
